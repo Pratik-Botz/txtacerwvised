@@ -8,3 +8,5 @@ aiohttp
 aiofiles
 asyncio
 pycurl
+pyrogram==1.4.16
+Pyromod==1.5
